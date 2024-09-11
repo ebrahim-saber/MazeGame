@@ -1,0 +1,14 @@
+E:\my project2\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.exe
+E:\my project2\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.deps.json
+E:\my project2\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.runtimeconfig.json
+E:\my project2\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.dll
+E:\my project2\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.pdb
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfoInputs.cache
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfo.cs
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.csproj.CoreCompileInputs.cache
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.dll
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\refint\MazeGame.dll
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.pdb
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.genruntimeconfig.cache
+E:\my project2\MazeGame\MazeGame\obj\Debug\net8.0\ref\MazeGame.dll
